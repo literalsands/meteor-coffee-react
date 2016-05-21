@@ -1,5 +1,5 @@
 Package.describe({
-  summary: 'Use Coffee React Transform to compile CJSX.',
+  summary: 'Use Coffee React to compile CJSX.',
   version: '5.0.0',
   name: 'literalsands:coffee-react'
 });

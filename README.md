@@ -1,5 +1,9 @@
 # Coffee React for Meteor
 
-[Coffee React](https://github.com/jsdf/coffee-react) + [Meteor's CoffeeCompiler](https://github.com/meteor/meteor/tree/devel/packages/coffeescript)
+Provides support for `.cjsx` using [Coffee React](https://github.com/jsdf/coffee-react) and [Meteor's CoffeeCompiler](https://github.com/meteor/meteor/tree/devel/packages/coffeescript).
 
+Installation
+```bash
+meteor add literalsands:coffee-react
+```
 
