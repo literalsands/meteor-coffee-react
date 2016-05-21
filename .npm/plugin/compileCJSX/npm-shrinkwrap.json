@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "coffee-react": {
+      "version": "5.0.0",
+      "resolved": "https://registry.npmjs.org/coffee-react/-/coffee-react-5.0.0.tgz",
+      "from": "https://registry.npmjs.org/coffee-react/-/coffee-react-5.0.0.tgz",
+      "dependencies": {
+        "coffee-react-jstransform": {
+          "version": "1.0.0",
+          "resolved": "https://registry.npmjs.org/coffee-react-jstransform/-/coffee-react-jstransform-1.0.0.tgz",
+          "from": "https://registry.npmjs.org/coffee-react-jstransform/-/coffee-react-jstransform-1.0.0.tgz"
+        },
+        "coffee-react-transform": {
+          "version": "4.0.0",
+          "resolved": "https://registry.npmjs.org/coffee-react-transform/-/coffee-react-transform-4.0.0.tgz",
+          "from": "https://registry.npmjs.org/coffee-react-transform/-/coffee-react-transform-4.0.0.tgz"
+        },
+        "coffee-script": {
+          "version": "1.10.0",
+          "resolved": "https://registry.npmjs.org/coffee-script/-/coffee-script-1.10.0.tgz",
+          "from": "https://registry.npmjs.org/coffee-script/-/coffee-script-1.10.0.tgz"
+        },
+        "mkdirp": {
+          "version": "0.5.1",
+          "resolved": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz",
+          "from": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz",
+          "dependencies": {
+            "minimist": {
+              "version": "0.0.8",
+              "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz",
+              "from": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz"
+            }
+          }
+        }
+      }
+    },
+    "source-map": {
+      "version": "0.5.3",
+      "resolved": "https://registry.npmjs.org/source-map/-/source-map-0.5.3.tgz",
+      "from": "https://registry.npmjs.org/source-map/-/source-map-0.5.3.tgz"
+    }
+  }
+}
