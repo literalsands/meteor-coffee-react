@@ -1,7 +1,8 @@
 Package.describe({
   summary: 'Use Coffee React to compile CJSX.',
   version: '5.0.0',
-  name: 'literalsands:coffee-react'
+  name: 'literalsands:coffee-react',
+  git: 'https://github.com/literalsands/meteor-coffee-react'
 });
 Package.registerBuildPlugin({
   name: 'compileCJSX',
