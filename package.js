@@ -6,7 +6,10 @@ Package.describe({
 });
 Package.registerBuildPlugin({
   name: 'compileCJSX',
-  use: ['caching-compiler', 'ecmascript'],
+  use: [
+    'caching-compiler@1.0.4',
+    'ecmascript@0.4.3'
+  ],
   sources: ['compile-cjsx.js'],
   npmDependencies: {
     "source-map": "0.5.3",
